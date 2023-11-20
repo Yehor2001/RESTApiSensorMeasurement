@@ -1,3 +1,0 @@
-# SensorMeasurementsRESTApi
-# RESTApiSensorMeasurement
-# RESTApiSensorMeasurement
